@@ -24,7 +24,7 @@
     - Unreal Engine
 
 
-## ![](Projects.png) Projects ##
+## ![](projects.png) Projects ##
 ### In-Developing Title (multi-platform, 2018) ###
 ![](steam.png)![](nintendo_switch_logo.png)
 
